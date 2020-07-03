@@ -1,0 +1,1 @@
+3dClustSim -mask GreyMatterMask+tlrc -acf 0.635648248 3.92260156 9.92412539 -niter 10000
